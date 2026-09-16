@@ -8,7 +8,9 @@
 
 **Esperado:** a tarefa aparece na lista.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** a tarefa foi adicionada normalmente.
+
+**Status:** `PASS`
 
 ---
 
@@ -20,7 +22,9 @@
 
 **Esperado:** a tarefa fica marcada como concluída.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** a tarefa ficou riscada após ser marcada como concluída.
+
+**Status:** `PASS`
 
 ---
 
@@ -32,7 +36,9 @@
 
 **Esperado:** a tarefa desaparece da lista.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** ao clicar no X, a tarefa foi excluída.
+
+**Status:** `PASS`
 
 ---
 
@@ -44,4 +50,6 @@
 
 **Esperado:** nenhuma tarefa é adicionada.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** nenhuma tarefa foi criada sem texto.
+
+**Status:** `PASS`

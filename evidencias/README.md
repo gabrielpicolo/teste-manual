@@ -1,19 +1,10 @@
 # Evidências
 
-Esta pasta será usada para armazenar screenshots dos testes executados.
+Nesta pasta vou guardar prints dos testes.
 
-Sugestão de nomes para os arquivos:
+Exemplos:
 
-- `CT01-login-valido.png`
-- `CT02-usuario-invalido.png`
-- `CT03-senha-invalida.png`
-- `CT04-campos-vazios.png`
-- `CT05-usuario-vazio.png`
-- `CT06-senha-vazia.png`
-- `CT07-logout.png`
-
-Caso um teste falhe e gere um bug, também pode ser usada uma evidência como:
-
-- `BUG-001-descricao-curta.png`
-
-O objetivo é conseguir relacionar facilmente cada imagem ao caso de teste correspondente.
+- `CT01-adicionar-tarefa.png`
+- `CT02-concluir-tarefa.png`
+- `CT03-excluir-tarefa.png`
+- `CT04-tarefa-vazia.png`

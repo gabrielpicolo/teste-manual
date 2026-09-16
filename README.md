@@ -1,30 +1,27 @@
-# Teste Manual de Login
+# Teste Manual - Lista de Tarefas
 
-Meu primeiro projeto de estudos em QA.
+Este é meu primeiro projeto de estudos em QA.
 
-A ideia deste projeto é praticar testes manuais em uma tela de login simples.
+A ideia é praticar testes manuais usando uma lista de tarefas simples.
 
-## Credenciais usadas no teste
+## Site usado
 
-- Usuário: `GabrielTeste`
-- Senha: `147258Gt`
+TodoMVC - React:
+https://todomvc.com/examples/react/dist/
 
-## Testes realizados
+## O que vou testar
 
-Vou testar situações simples, como:
-
-- login correto;
-- usuário errado;
-- senha errada;
-- campos vazios.
+- adicionar uma tarefa;
+- concluir uma tarefa;
+- excluir uma tarefa;
+- tentar adicionar uma tarefa vazia.
 
 ## Arquivos
 
-- `plano-de-testes.md` - o que pretendo testar;
-- `casos-de-teste.md` - os testes que serão feitos;
-- `bugs.md` - problemas encontrados;
+- `casos-de-teste.md` - casos que vou executar;
+- `bugs.md` - bugs encontrados;
 - `evidencias/` - imagens dos testes.
 
 ## Status
 
-Projeto em aprendizado e execução.
+Projeto em aprendizado.

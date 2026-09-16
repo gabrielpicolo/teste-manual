@@ -2,7 +2,7 @@
 
 Ainda não encontrei nenhum bug.
 
-Quando encontrar algum problema, vou registrar aqui de forma simples.
+Quando encontrar algum problema, vou registrar aqui.
 
 ## Modelo
 
@@ -12,9 +12,7 @@ Quando encontrar algum problema, vou registrar aqui de forma simples.
 
 **O que eu esperava:**
 
-**Como reproduzir:**
+**Passos:**
 1. 
 2. 
 3. 
-
-**Status:** Aberto

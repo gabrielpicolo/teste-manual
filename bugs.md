@@ -1,8 +1,8 @@
 # Bugs encontrados
 
-Ainda não encontrei nenhum bug.
+Nenhum bug foi encontrado durante os testes realizados neste projeto.
 
-Quando encontrar algum problema, vou registrar aqui.
+Se eu encontrar algum problema em testes futuros, vou registrar aqui.
 
 ## Modelo
 
